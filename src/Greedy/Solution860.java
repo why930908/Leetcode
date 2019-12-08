@@ -1,3 +1,5 @@
+package Greedy;
+
 public class Solution860 {
     public boolean lemonadeChange(int[] bills){
         int five = 0;
