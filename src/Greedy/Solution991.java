@@ -1,7 +1,6 @@
 package Greedy;
 
-// have fault
-//X=8,Y=10
+//review
 class Solution991 {
     public static  int brokenCalc(int X, int Y) {
         int ans = 0;
