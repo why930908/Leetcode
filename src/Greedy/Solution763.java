@@ -2,7 +2,7 @@ package Greedy;
 import java.util.ArrayList;
 import java.util.List;
 
-//review 
+//review
 public class Solution763 {
     public List<Integer> partitionLabels(String S){
         int anchor = 0;
