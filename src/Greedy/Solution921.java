@@ -1,5 +1,6 @@
 package Greedy;
 
+//括号 left right 不用栈的方法
 public class Solution921 {
     public int minAddToMakeValid(String S){
         int left=0;
