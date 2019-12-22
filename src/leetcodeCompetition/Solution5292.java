@@ -12,9 +12,9 @@ public class Solution5292 {
             Arrays.sort(nums);
             int count = k;
             int j = 0;
-            while (j < len-1){
+            /*while (j < len-1){
                 if ()
-            }
+            }*/
             for (int num : nums){
                 if (num != -1) return false;
                 else return true;
