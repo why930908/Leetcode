@@ -18,10 +18,10 @@ public class Solution2 {
             current.next = new ListNode((x1+x2+tmp)%10);
             current = current.next;
             tmp=(x1+x2+tmp)/10;
-            if (l1.next!=null) l1=l1.next;
-            if (l2.next!=null) l2=l2.next;
-
+            if (l1!=null) l1=l1.next;
+            if (l2!=null) l2=l2.next;
         }
+        if (tmp == 1) current.next = new ListNode(1);
         return res.next;
     }
 }
