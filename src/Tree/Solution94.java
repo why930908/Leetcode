@@ -15,7 +15,6 @@ public class Solution94 {
             if (root.left!=null){ f1(root.left,res);};
             res.add(root.val);
             if (root.right!=null){ f1(root.right,res);}
-
         }
 
     }
