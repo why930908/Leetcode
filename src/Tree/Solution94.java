@@ -16,7 +16,6 @@ public class Solution94 {
             res.add(root.val);
             if (root.right!=null){ f1(root.right,res);}
         }
-
     }
     public List<Integer> inorderTraversal(TreeNode root){
         List<Integer> res = new ArrayList<>();
