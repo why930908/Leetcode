@@ -6,3 +6,5 @@ leetcode notes
 
 2.Solution100，101等遍历验证二叉搜索树时，可用if(!helper)
 false，这个很有用！ 
+
+3.Solution1145 二叉树游戏 学会用dfs递归，很有用！
