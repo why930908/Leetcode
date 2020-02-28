@@ -8,3 +8,5 @@ leetcode notes
 false，这个很有用！ 
 
 3.Solution1145 二叉树游戏 学会用dfs递归，很有用！
+
+4.Solution988 从根到叶节点遍历树保存数据时，用dfs和dfs(root.left),dfs(root.right),string.delete
