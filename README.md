@@ -12,3 +12,5 @@ false，这个很有用！
 4.Solution988 从根到叶节点遍历树保存数据时，用dfs和dfs(root.left),dfs(root.right),string.delete
 
 5.Solution993dfs存储father和depth
+
+6.Solution226 用递归翻转二叉树
