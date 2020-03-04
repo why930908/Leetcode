@@ -10,3 +10,11 @@ false，这个很有用！
 3.Solution1145 二叉树游戏 学会用dfs递归，很有用！
 
 4.Solution988 从根到叶节点遍历树保存数据时，用dfs和dfs(root.left),dfs(root.right),string.delete
+
+5.Solution993dfs存储father和depth
+
+6.Solution226 用递归翻转二叉树
+
+7.Solution559 求树的深度的递归
+
+                                            8.Solution437 用前缀和遍历路径，目前没太懂,为什么前缀和唯一？
