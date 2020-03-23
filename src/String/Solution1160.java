@@ -4,28 +4,28 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Solution1160 {
-    public static  int countCharacters(String[] words,String chars){
-        Map<Character,Integer> map2 = new HashMap<>();
-        for (int i = 0; i < chars.length();i++){
-            map2.put(chars.charAt(i),map2.getOrDefault(chars.charAt(i),0)+1);
+    public int countCharacters(String[] words,String chars){
+        HashMap<Character,Integer> chars_count = new HashMap<>();
+        int ans = 0;
+        for (char c : chars.toCharArray()){
+            chars_count.put(c,chars_count.getOrDefault(c,0)+1);
         }
-        int sum = 0;
-        for (String s1 : words){
-            boolean a = true;
-            HashMap<Character,Integer> map1 = (HashMap<Character, Integer>) ((HashMap<Character, Integer>) map2).clone();
-            for (char s2 : s1.toCharArray()){
-                map1.put(s2,map1.getOrDefault(s2,0)-1);
-                if (map1.get(s2) == -1){
-                    a = false;
+        for (String word : words){
+            HashMap<Character,Integer> word_count = new HashMap<>();
+            for (char c : word.toCharArray()){
+                word_count.put(c,word_count.getOrDefault(c,0)+1);
+            }
+            boolean is_ans = true;
+            for (char c : word.toCharArray()){
+                if (word_count.getOrDefault(c,0) > chars_count.getOrDefault(c,0)){
+                    is_ans = false;
                     break;
                 }
             }
-            if (a) sum+=s1.length();
+            if (is_ans){
+                ans+= word.length();
+            }
         }
-        return sum;
-    }
-    public static void main (String[] args){
-        String[] word = new String[]{"cat","bat"};
-        System.out.println(countCharacters(word,"hatch"));
+        return ans;
     }
 }

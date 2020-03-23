@@ -7,10 +7,16 @@ public class Solution114 {
         TreeNode right;
         TreeNode(int _val){ val = _val;}
     }
+    private TreeNode pre = null;
+
     public void flatten(TreeNode root) {
-        if (root == null) return;
-        if (root.right != null) flatten(root.right);
-        if (root.left != null) flatten(root.left);
-        
+        if (root == null)
+            return;
+        flatten(root.right);
+        flatten(root.left);
+        root.right = pre;
+        root.left = null;
+        pre = root;
     }
+
 }
