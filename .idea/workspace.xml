@@ -2,70 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58e91675-a5ea-4d92-811c-4a91043cabbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-test-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-test.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Array/Solution1108.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Array/Solution1266.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Array/Solution169.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Array/Solution219.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Array/Solution260.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Array/Solution414.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Array/Solution53.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Array/Solution561.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Array/Solution605.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Array/Solution66.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Array/Solution728.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Array/Solution821.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Array/Solution977.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Bitwise/Solution461.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Dynamic/Solution1025.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Dynamic/Solution1281.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Dynamic/Solution198.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Greedy/Solution1005.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Greedy/Solution1029$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Greedy/Solution1029.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Greedy/Solution1276.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Greedy/Solution134.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Greedy/Solution392.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Greedy/Solution435.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Greedy/Solution455.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Greedy/Solution714.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Greedy/Solution738.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Greedy/Solution763.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Greedy/Solution860.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Greedy/Solution921.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Greedy/Solution991.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Hash/Solution771.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Recursion/Solution1137.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Recursion/Solution258.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Recursion/Solution779.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Stack/Solution232.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/Stack/Solution496.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/String/Solution344.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/String/Solution557.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Solution198.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Solution213.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Solution876.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Solution105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Solution1103.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Solution113.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Solution235.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Solution337.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Solution404.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Solution563.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Solution994.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String/Solution1160.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/Solution1160.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/Solution106.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Solution106.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/Solution114.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Solution114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Solution289.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Solution6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Solution22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Solution236.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Solution297.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/Solution235.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Solution235.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Daily" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dailys" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager">
@@ -265,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583049664404</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="2020.3.23">
+      <created>1584974660122</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1584974660122</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -282,7 +232,8 @@
     <MESSAGE value="//dfs存储father和depth" />
     <MESSAGE value="//翻转树 递归" />
     <MESSAGE value="// 用前缀和遍历路径，目前没太懂" />
-    <option name="LAST_COMMIT_MESSAGE" value="// 用前缀和遍历路径，目前没太懂" />
+    <MESSAGE value="2020.3.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.3.23" />
   </component>
   <component name="WindowStateProjectService">
     <state x="530" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582815315766">
@@ -297,46 +248,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="579" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1582815278256" />
-    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1583049663449">
+    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1584974659199">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583049663449" />
-    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1584938340823">
+    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584974659199" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1585013899203">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584938340823" />
-    <state width="1342" height="195" key="GridCell.Tab.0.bottom" timestamp="1576568804582">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576568804582" />
-    <state width="1342" height="195" key="GridCell.Tab.0.center" timestamp="1576568804582">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576568804582" />
-    <state width="1342" height="195" key="GridCell.Tab.0.left" timestamp="1576568804582">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576568804582" />
-    <state width="1342" height="195" key="GridCell.Tab.0.right" timestamp="1576568804582">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576568804582" />
-    <state width="1342" height="242" key="GridCell.Tab.1.bottom" timestamp="1576568804579">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1342" height="242" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576568804579" />
-    <state width="1342" height="242" key="GridCell.Tab.1.center" timestamp="1576568804579">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1342" height="242" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1576568804579" />
-    <state width="1342" height="242" key="GridCell.Tab.1.left" timestamp="1576568804579">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1342" height="242" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1576568804579" />
-    <state width="1342" height="242" key="GridCell.Tab.1.right" timestamp="1576568804579">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1342" height="242" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1576568804579" />
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585013899203" />
     <state x="147" y="65" key="MergeDialog" timestamp="1578392699105">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -353,14 +272,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583308710511" />
-    <state x="322" y="163" key="Vcs.Push.Dialog.v2" timestamp="1583049666230">
+    <state x="322" y="163" key="Vcs.Push.Dialog.v2" timestamp="1584974663306">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="322" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583049666230" />
-    <state x="409" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1584431124741">
+    <state x="322" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584974663306" />
+    <state x="409" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1585997920366">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="409" y="253" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584431124741" />
+    <state x="409" y="253" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585997920366" />
     <state x="522" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583308651568">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
