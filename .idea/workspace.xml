@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58e91675-a5ea-4d92-811c-4a91043cabbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/Solution289.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Solution6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Solution22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Solution236.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Solution297.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Solution46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Solution47.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/Solution235.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Solution235.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584974660122</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="2020.4.4">
+      <created>1586005885548</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1586005885548</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -233,7 +236,8 @@
     <MESSAGE value="//翻转树 递归" />
     <MESSAGE value="// 用前缀和遍历路径，目前没太懂" />
     <MESSAGE value="2020.3.23" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.3.23" />
+    <MESSAGE value="2020.4.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.4.4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="530" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582815315766">
@@ -248,10 +252,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="579" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1582815278256" />
-    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1584974659199">
+    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1586005882758">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584974659199" />
+    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586005882758" />
     <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1585013899203">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -272,14 +276,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583308710511" />
-    <state x="322" y="163" key="Vcs.Push.Dialog.v2" timestamp="1584974663306">
+    <state x="322" y="163" key="Vcs.Push.Dialog.v2" timestamp="1586005892973">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="322" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584974663306" />
-    <state x="409" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1585997920366">
+    <state x="322" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1586005892973" />
+    <state x="409" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1586054265132">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="409" y="253" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585997920366" />
+    <state x="409" y="253" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586054265132" />
     <state x="522" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583308651568">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
