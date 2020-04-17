@@ -1,18 +1,23 @@
 package Array;
+
+import java.util.HashSet;
+import java.util.Set;
+
 //面试精选
 public class Solution41 {
     public int firstMissingPositive(int[] nums) {
-        int min =1;
-        int j =1;
-        while (true) {
-            for (int i = 0; i < nums.length; i++) {
-                if (min == nums[i]) {
-                    min++;break;
-                }
+        for (int i = 0; i < nums.length; i++){
+            while (nums[i] > 0 && nums[i] <= nums.length && nums[nums[i] - 1] != nums[i]){
+                int tmp = nums[nums[i] - 1];
+                nums[nums[i] - 1] = nums[i];
+                nums[i] = tmp;
             }
-            j++;
-            if (min != j) break;
         }
-        return min;
+        for (int i = 0; i < nums.length;i++){
+            if (nums[i] != i +1){
+                return i + 1;
+            }
+        }
+        return nums.length + 1;
     }
 }
