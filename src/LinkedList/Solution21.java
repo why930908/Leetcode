@@ -34,6 +34,6 @@ public class Solution21 {
             nums[i] = nums[j];
             nums[j] = temp;
         }
-    
+
 
 }
