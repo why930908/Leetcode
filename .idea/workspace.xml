@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58e91675-a5ea-4d92-811c-4a91043cabbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Solution56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Solution57.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/Solution21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Solution21.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587136214294</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="自定义排序 合并区间">
+      <created>1587136854255</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1587136854255</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -261,7 +267,8 @@
     <MESSAGE value="2020.4.5 回溯剪枝" />
     <MESSAGE value="2020.4.17 数组移除元素 双指针" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="自定义排序 合并区间" />
+    <option name="LAST_COMMIT_MESSAGE" value="自定义排序 合并区间" />
   </component>
   <component name="WindowStateProjectService">
     <state x="530" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582815315766">
@@ -272,10 +279,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="579" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1582815278256" />
-    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1587136213572">
+    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1587136853582">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587136213572" />
+    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587136853582" />
     <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1587133938671">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -288,10 +295,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583308710511" />
-    <state x="322" y="163" key="Vcs.Push.Dialog.v2" timestamp="1587136222502">
+    <state x="322" y="163" key="Vcs.Push.Dialog.v2" timestamp="1587136856822">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="322" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587136222502" />
+    <state x="322" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587136856822" />
     <state x="409" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1587133693603">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
