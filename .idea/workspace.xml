@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58e91675-a5ea-4d92-811c-4a91043cabbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/Solution216.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Solution39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Solution40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Solution48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Solution54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Solution77.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Solution26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Solution27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Solution38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Solution43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Solution49.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Solution41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Solution41.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586055843259</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="2020.4.17 数组移除元素 双指针">
+      <created>1587135524331</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1587135524331</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -255,7 +250,8 @@
     <MESSAGE value="2020.3.23" />
     <MESSAGE value="2020.4.4" />
     <MESSAGE value="2020.4.5 回溯剪枝" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.4.5 回溯剪枝" />
+    <MESSAGE value="2020.4.17 数组移除元素 双指针" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.4.17 数组移除元素 双指针" />
   </component>
   <component name="WindowStateProjectService">
     <state x="530" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582815315766">
@@ -266,10 +262,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="579" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1582815278256" />
-    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1586055842249">
+    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1587135523483">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586055842249" />
+    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587135523483" />
     <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1587133938671">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -282,10 +278,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583308710511" />
-    <state x="322" y="163" key="Vcs.Push.Dialog.v2" timestamp="1586055847670">
+    <state x="322" y="163" key="Vcs.Push.Dialog.v2" timestamp="1587135527435">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="322" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1586055847670" />
+    <state x="322" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587135527435" />
     <state x="409" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1587133693603">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
