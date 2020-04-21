@@ -3,6 +3,7 @@ package Array;
 /**
  * Created by wanghaoyu on 2020/4/19
  */
+//二分法
 public class Solution153 {
     public int findMin(int[] nums) {
         // If the list has just one element then return that element.
