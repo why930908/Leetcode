@@ -1,16 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="58e91675-a5ea-4d92-811c-4a91043cabbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tree/Solution257.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Solution897.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Interview0404.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Interview37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Solution872.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/Solution559.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Solution559.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/Solution114.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Solution114.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/Solution590.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,14 +50,14 @@
   <component name="ProjectId" id="1V2vUx8UNxyEElaCGYU3n8iRZrY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dailys" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RunManager">
     <configuration name="Solution260" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -55,18 +78,6 @@
         <item itemvalue="Application.Solution260" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -292,6 +303,18 @@
     <option name="localTasksCounter" value="31" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="%9" />
     <MESSAGE value="StringBuilder StringBuffer trim" />
@@ -340,10 +363,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="408" y="116" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1587134064812" />
-    <state x="270" y="54" key="SettingsEditor" timestamp="1583308710511">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="218" y="138" key="SettingsEditor" timestamp="1591238277889">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583308710511" />
+    <state x="218" y="138" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1591238277889" />
     <state x="322" y="163" key="Vcs.Push.Dialog.v2" timestamp="1587213109439">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -364,10 +388,12 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="178" y="28" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1583299142914" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587478193834">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="471" y="185" width="735" height="864" key="search.everywhere.popup" timestamp="1591164031474">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587478193834" />
+    <state x="471" y="185" width="735" height="864" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1591164031474" />
+    <state x="471" y="185" width="735" height="864" key="search.everywhere.popup/0.23.1680.961@0.23.1680.961" timestamp="1591163945052" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

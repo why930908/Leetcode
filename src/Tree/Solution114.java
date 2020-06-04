@@ -18,5 +18,4 @@ public class Solution114 {
         root.left = null;
         pre = root;
     }
-
 }
