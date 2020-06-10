@@ -19,13 +19,34 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58e91675-a5ea-4d92-811c-4a91043cabbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tree/Interview0404.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Interview37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Solution872.java" afterDir="false" />
+    <list default="true" id="58e91675-a5ea-4d92-811c-4a91043cabbd" name="Default Changelist" comment="0">
+      <change afterPath="$PROJECT_DIR$/src/Greedy/Interview29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListNode/Solution1367.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListNode/Solution141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListNode/Solution142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListNode/Solution143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Interview0405.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Interview0408.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Interview0410.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Interview07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Interview28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Interview32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Interview32_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Interview54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Interview55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Interview68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Solution1008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Solution1110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Solution1302.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Solution951.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Solution968.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/Solution114.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Solution114.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/Solution590.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Array/Solution53.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Array/Solution53.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/saolei.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/Solution257.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/Solution297.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/Solution589.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +78,25 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dailys" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="android.project.structure" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Solution1008">
+    <configuration name="Solution1008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.Solution1008" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution260" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.Solution260" />
       <module name="Leetcode" />
@@ -75,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution1008" />
         <item itemvalue="Application.Solution260" />
       </list>
     </recent_temporary>
@@ -300,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587476856799</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="0">
+      <created>1591266621122</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1591266621122</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -343,10 +388,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="0" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="530" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582815315766">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="580" y="274" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591323671126">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="530" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1582815315766" />
+    <state x="580" y="274" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1591323671126" />
     <state x="579" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582815278256">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -359,27 +405,65 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587133938671" />
+    <state width="819" height="364" key="GridCell.Tab.0.bottom" timestamp="1591776385804">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="819" height="364" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591776385804" />
+    <state width="819" height="364" key="GridCell.Tab.0.center" timestamp="1591776385804">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="819" height="364" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591776385804" />
+    <state width="819" height="364" key="GridCell.Tab.0.left" timestamp="1591776385803">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="819" height="364" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591776385803" />
+    <state width="819" height="364" key="GridCell.Tab.0.right" timestamp="1591776385804">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="819" height="364" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591776385804" />
+    <state width="819" height="364" key="GridCell.Tab.1.bottom" timestamp="1591776385857">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="819" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591776385857" />
+    <state width="819" height="364" key="GridCell.Tab.1.center" timestamp="1591776385856">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="819" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591776385856" />
+    <state width="819" height="364" key="GridCell.Tab.1.left" timestamp="1591776385855">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="819" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591776385855" />
+    <state width="819" height="364" key="GridCell.Tab.1.right" timestamp="1591776385856">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="819" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591776385856" />
     <state x="408" y="116" key="NewModule_or_Project.wizard" timestamp="1587134064812">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="408" y="116" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1587134064812" />
-    <state x="218" y="138" key="SettingsEditor" timestamp="1591238277889">
+    <state x="218" y="138" key="SettingsEditor" timestamp="1591775775235">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583308710511" />
-    <state x="218" y="138" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1591238277889" />
-    <state x="322" y="163" key="Vcs.Push.Dialog.v2" timestamp="1587213109439">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="218" y="138" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1591775775235" />
+    <state x="352" y="208" key="Vcs.Push.Dialog.v2" timestamp="1591266622951">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="322" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587213109439" />
+    <state x="352" y="208" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1591266622951" />
     <state x="409" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1587476811539">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="409" y="253" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587476811539" />
-    <state x="522" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587213096647">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="571" y="441" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591341670801">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="522" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1587213096647" />
+    <state x="571" y="441" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1591341670801" />
+    <state x="231" y="48" width="1480" height="850" key="dock-window-1" timestamp="1591342016549">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="231" y="48" width="1480" height="850" key="dock-window-1/0.23.1680.961@0.23.1680.961" timestamp="1591342016549" />
     <state x="472" y="214" key="git4idea.merge.GitPullDialog" timestamp="1583308683101">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -388,11 +472,15 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="178" y="28" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1583299142914" />
-    <state x="471" y="185" width="735" height="864" key="search.everywhere.popup" timestamp="1591164031474">
+    <state x="545" y="308" key="refactoring.ChangeSignatureDialog" timestamp="1591755666447">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="545" y="308" key="refactoring.ChangeSignatureDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591755666447" />
+    <state x="471" y="185" width="735" height="864" key="search.everywhere.popup" timestamp="1591775880913">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587478193834" />
-    <state x="471" y="185" width="735" height="864" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1591164031474" />
+    <state x="471" y="185" width="735" height="864" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1591775880913" />
     <state x="471" y="185" width="735" height="864" key="search.everywhere.popup/0.23.1680.961@0.23.1680.961" timestamp="1591163945052" />
   </component>
   <component name="XDebuggerManager">
@@ -405,6 +493,11 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tree/Solution1008.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
